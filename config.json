@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mssql+pyodbc:///?odbc_connect=%s",
+        "prod_uri":"mssql+pyodbc:///?odbc_connect=%s",
+        "fb_url":"https://facebook.com/aratest",
+        "tw_url":"https://twitter.com/aratest",
+        "gh_url":"https://github.com/aratest",
+        "blog_name":"Coding Thunder",
+        "admin_blog":"Admin Panel",
+        "sub_heading":"A Blog Theme by Coding Thuder Programmer",
+        "gmail-user":"asadullahara@gmail.com",
+        "gmail-password":"salfi7900@r@",
+        "no_of_posts":2,
+        "admin_mail":"ara@gmail.com",
+        "admin_password":"12345",
+        "upload_location":"E:\\Flask\\static"
+
+
+
+    }
+
+    
+}
